@@ -1,0 +1,116 @@
+["Aboriginal", "Australia"]	6000000
+["Aboriginal", "UK"]	80000000
+["Arabic", "Egypt"]	1500000
+["Arabic", "France"]	1300000
+["Arabic", "Turkey"]	8300000
+["Arabic", "United Arab Emirates"]	125000
+["Aramaic", "USA"]	30000000
+["Bosnian", "USA"]	13000000
+["Cantonese", "China"]	25000000
+["Cantonese", "Hong Kong"]	129500000
+["Chinese", "China"]	12000000
+["Czech", "Czech Republic"]	84450000
+["Danish", "Denmark"]	50100000
+["Dari", "Afghanistan"]	46000
+["Dari", "USA"]	20000000
+["Dutch", "Netherlands"]	32150000
+["Dzongkha", "Australia"]	1800000
+["English", "Aruba"]	35000000
+["English", "Australia"]	1415805523
+["English", "Bahamas"]	5000000
+["English", "Belgium"]	49000000
+["English", "Brazil"]	3000000
+["English", "Bulgaria"]	7000000
+["English", "Canada"]	1551512000
+["English", "Chile"]	26000000
+["English", "China"]	287005000
+["English", "Czech Republic"]	62000000
+["English", "Denmark"]	75200000
+["English", "France"]	2960460000
+["English", "Georgia"]	20000000
+["English", "Germany"]	2841610000
+["English", "Greece"]	18000000
+["English", "Hong Kong"]	150000000
+["English", "Hungary"]	20000000
+["English", "Iceland"]	3800000
+["English", "India"]	671800000
+["English", "Iran"]	14000000
+["English", "Ireland"]	99190000
+["English", "Italy"]	216600000
+["English", "Japan"]	229000000
+["English", "Kyrgyzstan"]	1400000
+["English", "Libya"]	35000000
+["English", "Mexico"]	27700000
+["English", "Netherlands"]	17900000
+["English", "New Line"]	90000000
+["English", "New Zealand"]	645850000
+["English", "Nigeria"]	7500000
+["English", "Norway"]	100600000
+["English", "Official site"]	15000000
+["English", "Panama"]	20000000
+["English", "Peru"]	45000000
+["English", "Philippines"]	7000
+["English", "Poland"]	2400000
+["English", "Romania"]	17000000
+["English", "Russia"]	20000000
+["English", "South Africa"]	116000000
+["English", "South Korea"]	158220000
+["English", "Spain"]	364450000
+["English", "Switzerland"]	30500000
+["English", "Thailand"]	9000000
+["English", "UK"]	9550739127
+["English", "USA"]	119892626596
+["English", "West Germany"]	27000000
+["Filipino", "USA"]	80000000
+["French", "Canada"]	34900000
+["French", "Finland"]	3850000
+["French", "France"]	1000604500
+["French", "UK"]	400000
+["German", "Germany"]	96900000
+["German", "Mexico"]	4000000
+["German", "Switzerland"]	4500000
+["German", "West Germany"]	14000000
+["Hebrew", "Israel"]	3450000
+["Hindi", "India"]	1021667600
+["Hindi", "USA"]	6000000
+["Hungarian", "Hungary"]	2500000000
+["Icelandic", "Iceland"]	10000000
+["Indonesian", "Indonesia"]	1100000
+["Indonesian", "UK"]	1000000
+["Italian", "Italy"]	29750000
+["Italian", "UK"]	25000000
+["Japanese", "Japan"]	6782919898
+["Japanese", "USA"]	19000000
+["Kazakh", "France"]	25000000
+["Korean", "South Korea"]	16449300000
+["Mandarin", "China"]	1076032000
+["Mandarin", "Hong Kong"]	93600000
+["Mandarin", "Taiwan"]	30000000
+["Maya", "USA"]	40000000
+["Mongolian", "Russia"]	20000000
+["None", "Canada"]	12500000
+["None", "USA"]	4000000
+["Norwegian", "Norway"]	66500000
+["Panjabi", "Canada"]	3000000
+["Persian", "Iran"]	690000
+["Portuguese", "Brazil"]	26200000
+["Romanian", "Romania"]	758000
+["Russian", "Russia"]	132700000
+["Russian", "Soviet Union"]	1000000
+["Slovenian", "Slovenia"]	500000
+["Spanish", "Argentina"]	5700000
+["Spanish", "Colombia"]	3000000
+["Spanish", "Dominican Republic"]	500000
+["Spanish", "Italy"]	15000000
+["Spanish", "Mexico"]	45418775
+["Spanish", "Spain"]	791600000
+["Spanish", "USA"]	90107000
+["Swahili", "Kenya"]	15000
+["Swedish", "Sweden"]	50400000
+["Tamil", "India"]	150000000
+["Telugu", "India"]	18026148
+["Thai", "Thailand"]	900000000
+["Urdu", "Pakistan"]	1000000
+["Vietnamese", "USA"]	1592000
+["Zulu", "South Africa"]	10000000
+["Zulu", "UK"]	3000000
