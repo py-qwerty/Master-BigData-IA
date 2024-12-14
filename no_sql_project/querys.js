@@ -1,5 +1,5 @@
 // 1. Analizar la colección
-use movies
+use ('movies')
 
 
 db.movies.find().limit(5)
